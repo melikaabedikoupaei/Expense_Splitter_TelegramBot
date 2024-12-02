@@ -122,17 +122,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - [OpenAI](https://openai.com) for the LLM integration.
 - [Telegram](https://telegram.org) for their easy-to-use bot API.
-
----
-
-## Contact
-
-For questions or support, please reach out to **your-email@example.com**.
-
-```
-
-### How to Customize
-1. Replace `"your-username"` and `"your-email@example.com"` with your actual GitHub username and email address.
-2. If your project uses different libraries or has unique setup steps, modify the `requirements.txt` and `Installation` sections accordingly.
-3. Consider adding screenshots or GIFs for visual representation of bot interaction.
-```
